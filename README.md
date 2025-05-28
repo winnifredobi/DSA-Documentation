@@ -60,7 +60,10 @@ Example:
 
 5. Visualization Ideas
    
-- Bar charts: Product uptake per account type
+- Bar charts: *Product uptake per account type*
+
+
+  
 
 - Heatmaps: Cross-sell behavior between products
 
