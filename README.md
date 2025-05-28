@@ -62,7 +62,8 @@ Example:
    
 - Bar charts: *Product uptake per account type*
 
-  ![Uploading Pie Chart- Product Uptake Per Account Type.png…]()
+  ![Pie Chart- Product Uptake Per Account Type](https://github.com/user-attachments/assets/e76b9de5-f809-4903-b212-4acca43a6224)
+
 
 
 - Heatmaps: Cross-sell behavior between products
