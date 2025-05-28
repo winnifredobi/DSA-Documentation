@@ -22,6 +22,7 @@ To analyze Product Uptake for different accounts in TAJBank, we’ll need to app
 - Product major categories (e.g., Qard and Mudarabah)
 
 2. Gather and Prepare Data
+   
 Next, we’ll need a dataset with at least the following fields:
 
 - Customer ID
@@ -34,6 +35,7 @@ Next, we’ll need a dataset with at least the following fields:
 - Cross-sell / up-sell history
 
 3. Key Metrics to Analyze
+   
 Some of the key performance indicators (KPIs) to consider are as follows:
 
 Metric	Description
@@ -45,6 +47,7 @@ Metric	Description
 - Churn Rate by Product: *Percentage of accounts closing products over time*
 
 4. Segmented Analysis
+   
 Subsequently we begin to analyze uptake across different product types:
 
 Example:
@@ -55,6 +58,7 @@ Mudarabah Savings	45%	50% 45%	30%	5.2
 Mudarabah Term Deposit 0%	0%	0% 0%	1.3
 
 5. Visualization Ideas
+   
 - Bar charts: Product uptake per account type
 
 - Heatmaps: Cross-sell behavior between products
@@ -64,6 +68,7 @@ Mudarabah Term Deposit 0%	0%	0% 0%	1.3
 - Funnel chart: Conversion from account opening → first product → second product, etc.
 
 6. Insights and Recommendations
+   
 From the above analysis, you can extract the underlisted actionable insights:
 
 - Which account type has the highest cross-sell potential?
