@@ -51,11 +51,12 @@ Metric	Description
 Subsequently we begin to analyze uptake across different product types:
 
 Example:
-Account Type	Card Uptake	TAJWay Uptake	USSD Uptake Internet Banking Uptake	Avg Products/Account
-Qard	35%	40% 15%	10%	1.6
-Mudarabah Current Account	5%	55%	30%	2.8
-Mudarabah Savings	45%	50% 45%	30%	5.2
-Mudarabah Term Deposit 0%	0%	0% 0%	1.3
+
+|Account Type|	Card Uptake| TAJWay Uptake|	USSD Uptake| Internet Banking Uptake|	Avg Products/Account|
+|Qard|	45%|	40%| 35%|	10%|	1.6|
+|Mudarabah Current Account|	5%|	10%|	20%|	2.8|
+|Mudarabah Savings|	50%|	50%| 45%|	30%|	5.2|
+|Mudarabah Term Deposit| 0%|	0%|	0%| 0%|	1.3|
 
 5. Visualization Ideas
    
