@@ -11,7 +11,7 @@ To analyze Product Uptake for different accounts in TAJBank, we’ll need to app
 #### Outline
 
 1. Define the Scope
-  First we clarify what matrices shall be used to determine product uptake:
+ First we clarify what matrices shall be used to determine product uptake:
 
 - Is it new product enrollment?
 - Is it usage frequency?
