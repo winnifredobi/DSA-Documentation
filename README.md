@@ -18,7 +18,7 @@ First we clarify what matrices shall be used to determine product uptake:
 - Is it activation versus non-activation?
 - Timeframe (monthly, quarterly, annually?)
 - Accounts to be compared (e.g., Qard, Qard Savings, Mudarabah Savings, Mudarabah Term Deposit and Mudarabah Current Account products)
-- Product categories (e.g., Qard and Mudarabah)
+- Product major categories (e.g., Qard and Mudarabah)
 
 2. Gather and Prepare Data
 Next, we’ll need a dataset with at least the following fields:
@@ -33,53 +33,51 @@ Next, we’ll need a dataset with at least the following fields:
 - Cross-sell / up-sell history
 
 3. Key Metrics to Analyze
-Here are key performance indicators (KPIs) to consider:
+Some of the key performance indicators (KPIs) to consider are as follows:
 
 Metric	Description
-Product Uptake Rate	% of accounts that have adopted at least one product
-Average Products per Account	Total number of products ÷ total accounts
-Product Penetration Rate	% of accounts that have each type of product
-Cross-sell Rate	% of accounts with >1 product
-Time to First Uptake	Average time from account opening to product adoption
-Churn Rate by Product	% of accounts closing products over time
+- Product Uptake Rate: *The percentage of accounts that have adopted at least one product*
+- Average Products per Account:	*Total number of products ÷ total accounts*
+- Product Penetration Rate:	*Percentage of accounts that have each type of product*
+- Cross-sell Rate: *Percentage of accounts with >1 product*
+- Time to First Uptake:	*Average time from account opening to product adoption*
+- Churn Rate by Product: *Percentage of accounts closing products over time*
 
-🔹 4. Segmented Analysis
-Analyze uptake across different account types:
+4. Segmented Analysis
+Subsequently we begin to analyze uptake across different product types:
 
 Example:
-Account Type	Credit Card Uptake	Loan Uptake	Insurance Uptake	Avg Products/Account
-Savings	35%	15%	10%	1.6
-Business	60%	55%	30%	2.8
-Student	45%	5%	3%	1.3
+Account Type	Card Uptake	TAJWay Uptake	USSD Uptake Internet Banking Uptake	Avg Products/Account
+Qard	35%	40% 15%	10%	1.6
+Mudarabah Current Account	5%	55%	30%	2.8
+Mudarabah Savings	45%	50% 45%	30%	5.2
+Mudarabah Term Deposit 0%	0%	0% 0%	1.3
 
-🔹 5. Visualization Ideas
-Bar charts: Product uptake per account type
+5. Visualization Ideas
+- Bar charts: Product uptake per account type
 
-Heatmaps: Cross-sell behavior between products
+- Heatmaps: Cross-sell behavior between products
 
-Line graphs: Trends over time in product adoption
+- Line graphs: Trends over time in product adoption
 
-Funnel chart: Conversion from account opening → first product → second product, etc.
+- Funnel chart: Conversion from account opening → first product → second product, etc.
 
-🔹 6. Insights and Recommendations
-From the above analysis, you can extract actionable insights:
+6. Insights and Recommendations
+From the above analysis, you can extract the underlisted actionable insights:
 
-Which account type has the highest cross-sell potential?
+- Which account type has the highest cross-sell potential?
+- Are there underperforming segments for certain products?
+- Do specific account types show early uptake trends?
+- What promotional or onboarding strategies might boost uptake?
 
-Are there underperforming segments for certain products?
+7. Optional Advanced Analytics
 
-Do specific account types show early uptake trends?
+- Predictive modeling: *Use machine learning to predict likelihood of product uptake based on customer/account features.*
+- Cohort analysis: *See how uptake varies by customer onboarding cohort.* and ultimately;
+- Survival analysis: *Model time to product adoption or churn.*
 
-What promotional or onboarding strategies might boost uptake?
+**Thank you!**
 
-🔹 7. Optional Advanced Analytics
-Predictive modeling: Use machine learning to predict likelihood of product uptake based on customer/account features.
-
-Cohort analysis: See how uptake varies by customer onboarding cohort.
-
-Survival analysis: Model time to product adoption or churn.
-
-Would you like to go further with a mock dataset, a template for reporting, or help building visualizations (e.g. in Excel, Python, or Power BI)?
 
 
 
