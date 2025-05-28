@@ -60,7 +60,7 @@ Example:
 
 5. Visualization Ideas
    
-- Bar charts: *Product uptake per account type*
+- Pie chart: *Product uptake per account type*
 
   ![Pie Chart- Product Uptake Per Account Type](https://github.com/user-attachments/assets/e76b9de5-f809-4903-b212-4acca43a6224)
 
