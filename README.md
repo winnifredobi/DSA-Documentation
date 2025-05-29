@@ -1,4 +1,4 @@
-# DSA-Documentation
+# DSA-Documentation {Hypothetical Project}
 
 ## PROJECT TOPIC: Analysis of Product Uptake for different accounts in TAJBank [Download Here](https://tajbank.com)
 
@@ -54,13 +54,13 @@ Example:
 
 |Account Type|	Card Uptake| TAJWay Uptake|	USSD Uptake| Internet Banking Uptake|	Avg Products/Account|
 |Qard|	45%|	40%| 35%|	10%|	1.6|
-|Mudarabah Current Account|	5%|	10%|	20%|	2.8|
+|Mudarabah Current Account|	5%|	10%|	20%| 60%|	2.8|
 |Mudarabah Savings|	50%|	50%| 45%|	30%|	5.2|
 |Mudarabah Term Deposit| 0%|	0%|	0%| 0%|	1.3|
 
 5. Visualization Ideas
    
-- Pie chart: *Product uptake per account type*
+- Bar chart: *Product uptake per account type*
 
   ![Pie Chart- Product Uptake Per Account Type](https://github.com/user-attachments/assets/e76b9de5-f809-4903-b212-4acca43a6224)
 
@@ -68,7 +68,7 @@ Example:
 
 - Heatmaps: Cross-sell behavior between products
 
-- Line graphs: Trends over time in product adoption
+- Line graphs: Trends in product adoption
 
 - Funnel chart: Conversion from account opening → first product → second product, etc.
 
