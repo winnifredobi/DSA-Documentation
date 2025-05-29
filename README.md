@@ -8,11 +8,17 @@ To analyze Product Uptake for different accounts in TAJBank, we’ll need to app
 ### Table of Content
 
 [1. Define the Scope](#1-Define-the-Scope)
+
 [2. Data Gathering and Preparation](#2-Data-Gathering-and-Preparation)
+
 [3. Key Metrics To Analyze](#3-Key-Metrics-To-Analyze)
+
 [4. Segmented Analysis](#4-Segmented-Analysis)
+
 [5. Visualization Into Our Data](#5-Visualization-Into-Our-Data)
+
 [6. Insights and Recommendation](#6-Insights-and-Recommendation)
+
 [7. The Future](#7-The-Future)
 
 
