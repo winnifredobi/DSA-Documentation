@@ -8,6 +8,8 @@ To analyze Product Uptake for different accounts in TAJBank, we’ll need to app
 ### Table of Content
 
 
+
+
 #### Outline
 
 1. Define the Scope
@@ -21,7 +23,7 @@ To analyze Product Uptake for different accounts in TAJBank, we’ll need to app
 - Accounts to be compared (e.g., Qard, Qard Savings, Mudarabah Savings, Mudarabah Term Deposit and Mudarabah Current Account products)
 - Product major categories (e.g., Qard and Mudarabah)
 
-2. Gather and Prepare Data
+2. Data Gathering and Preparation
    
 Next, we’ll need a dataset with at least the following fields:
 
@@ -34,7 +36,7 @@ Next, we’ll need a dataset with at least the following fields:
 - Revenue from each product per account
 - Cross-sell / up-sell history
 
-3. Key Metrics to Analyze
+3. Key Metrics To Analyze
    
 Some of the key performance indicators (KPIs) to consider are as follows:
 
@@ -53,35 +55,34 @@ Subsequently we begin to analyze uptake across different product types:
 Example:
 
 |Account Type|	Card Uptake| TAJWay Uptake|	USSD Uptake| Internet Banking Uptake|	Avg Products/Account|
+|-----------| -----------| -----------| -----------| -----------| -----------|
 |Qard|	45%|	40%| 35%|	10%|	1.6|
 |Mudarabah Current Account|	5%|	10%|	20%| 60%|	2.8|
 |Mudarabah Savings|	50%|	50%| 45%|	30%|	5.2|
 |Mudarabah Term Deposit| 0%|	0%|	0%| 0%|	1.3|
 
-5. Visualization Ideas
+5. Visualization Into Our Data
    
 - Bar chart: *Product uptake per account type*
 
-  ![Pie Chart- Product Uptake Per Account Type](https://github.com/user-attachments/assets/e76b9de5-f809-4903-b212-4acca43a6224)
-
-
-
-- Heatmaps: Cross-sell behavior between products
+![Pdt Uptake Per Account Type](https://github.com/user-attachments/assets/c545e31b-0747-4bfb-b798-1f4747c7985a)
 
 - Line graphs: Trends in product adoption
-
-- Funnel chart: Conversion from account opening → first product → second product, etc.
+  
+![Trends In Product Adoption](https://github.com/user-attachments/assets/ee33c613-878b-4da4-aff7-981c696c0a21)
 
 6. Insights and Recommendations
    
-From the above analysis, you can extract the underlisted actionable insights:
+From the above analysis, we could extract the underlisted actionable insights:
 
 - Which account type has the highest cross-sell potential?
 - Are there underperforming segments for certain products?
 - Do specific account types show early uptake trends?
 - What promotional or onboarding strategies might boost uptake?
 
-7. Optional Advanced Analytics
+7. The Future
+
+   Futuristically speaking, we could perform other analytics such as:
 
 - Predictive modeling: *Use machine learning to predict likelihood of product uptake based on customer/account features.*
 - Cohort analysis: *See how uptake varies by customer onboarding cohort.* and ultimately;
