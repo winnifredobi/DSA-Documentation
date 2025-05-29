@@ -67,11 +67,11 @@ Example:
 |Account Type|	Card Uptake| TAJWay Uptake|	USSD Uptake| Internet Banking Uptake|	Avg Products/Account|
 |-----------| -----------| -----------| -----------| -----------| -----------|
 |Qard|	45%|	40%| 35%|	10%|	1.6|
-| -----------|
+| -----------
 |Mudarabah Current Account|	5%|	10%|	20%| 60%|	2.8|
-| -----------|
+| -----------
 |Mudarabah Savings|	50%|	50%| 45%|	30%|	5.2|
-| -----------|
+| -----------
 |Mudarabah Term Deposit| 0%|	0%|	0%| 0%|	1.3|
 
 ### 5. Visualization Into Our Data
