@@ -67,11 +67,11 @@ Example:
 |Account Type|	Card Uptake| TAJWay Uptake|	USSD Uptake| Internet Banking Uptake|	Avg Products/Account|
 |-----------| -----------| -----------| -----------| -----------| -----------|
 |Qard|	45%|	40%| 35%|	10%|	1.6|
-|-----------| -----------| -----------| -----------| -----------| -----------|
+
 |Mudarabah Current Account|	5%|	10%|	20%| 60%|	2.8|
-|-----------| -----------| -----------| -----------| -----------| -----------|
+
 |Mudarabah Savings|	50%|	50%| 45%|	30%|	5.2|
-|-----------| -----------| -----------| -----------| -----------| -----------|
+
 |Mudarabah Term Deposit| 0%|	0%|	0%| 0%|	1.3|
 
 ### 5. Visualization Into Our Data
@@ -101,7 +101,7 @@ From the above analysis, we could extract the underlisted actionable insights:
 - Cohort analysis: *See how uptake varies by customer onboarding cohort.* and ultimately;
 - Survival analysis: *Model time to product adoption or churn.*
 
-**Thank you!**
+**Thank you!** 😄
 
 
 
